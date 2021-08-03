@@ -1,5 +1,5 @@
 # Code 10-10
-Code 10-10 is a multiplayer first-person shooter deathmatch game made in the Unity game engine.
+Code 10-10 is a multiplayer first-person shooter deathmatch game made in the Unity game engine. The server application repo can be found [here](https://github.com/EngineerFaunce/code-1010-client).
 
 ![image](https://user-images.githubusercontent.com/16312436/127939143-24df046e-ced8-476c-828d-772d3d7753b7.png)
 
